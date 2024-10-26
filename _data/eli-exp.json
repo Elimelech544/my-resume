@@ -1,0 +1,44 @@
+[
+    {
+        "company": "AFARINICK COMPANY LIMITED",
+        "company_location": "Labone, Ghana",
+        "role": "Monitoring and Evaluation Officer",
+        "team": "IT/MnE",
+        "time_duration": "Nov 2023 - Present",
+        "details": [
+            {
+                "title": "Staff Training",
+                "description": "Trained farm staff on data collection methods and M&E tools to enhance productivity and performance."
+            },
+            {
+                "title": "Project Management",
+                "description": "Conducted monitoring and evaluation of various projects to identify opportunities for improvement in farm efficiency and productivity."
+            },
+            {
+                "title": "Data-Driven Insights and KPI Tracking",
+                "description": "Prepared comprehensive reports detailing data insights and strategic recommendations to enhance farm operations. Developed and monitored Key Performance Indicators (KPIs) to measure project success and drive process optimization."
+            }
+        ]
+    },
+    {
+        "company": "SOET SMOOTHIES AND JUICES",
+        "company_location": "Kumasi, Ghana",
+        "role": "Sales Executive",
+        "team": "Sales and Marketing",
+        "time_duration": "Jan 2022 - Oct 2023",
+        "details": [
+            {
+                "title": "Expanded Market Presence",
+                "description": "Cultivated robust relationships with retailers and distributors to enhance product visibility and drive expansion in local markets."
+            },
+            {
+                "title": "Customer-Driven Product Optimization",
+                "description": "Collected and analyzed customer feedback to guide product improvements and optimize marketing approaches."
+            },
+            {
+                "title": "Brand Visibility Enhancement",
+                "description": "Partnered with the marketing team to create targeted campaigns that boosted brand awareness and customer engagement. Led product demonstrations and in-store promotions to highlight the brand's unique features."
+            }
+        ]
+    }
+]

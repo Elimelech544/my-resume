@@ -1,0 +1,48 @@
+[
+    {
+        "name": "ELIMELECH ODARTEY MENSAH",
+        "website": "https://github.com/Elimelech544",
+        "email": "elimelechmensah8@gmail.com",
+        "email2": "@elimelechmensa2",
+        "phone": "+233-544-267-322",
+        "linkedin":"https://www.linkedin.com/in/elimelechmensah",
+        "languages": [
+            {
+                "language": "C++"
+            },
+            {
+                "language": "Dart"
+            },
+            {
+                "language": "Java"
+            }
+        ],
+        "data analysis tools": [
+            {
+                "data analysis tools": "Excel"
+            },
+            {
+                "data analysis tools": "Power BI"
+            }
+        ],
+        "operating systems": [
+            {
+                "operating systems": "Windows"
+            },
+            {
+                "operating systems": "Linux"
+            }
+        ],
+        "soft skills": [
+            {
+                "soft skills": "Communication"
+            },
+            {
+                "soft skills": "Time Management"
+            },
+            {
+                "soft skills":"Problem-solving"
+            }
+        ]
+    }
+]
